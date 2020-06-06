@@ -1,0 +1,9 @@
+Types of os:
+ Simple Batch System.
+ Multiprogramming Batch System.
+ Multiprocessor System.
+ Desktop System.
+ Distributed Operating System.
+ Clustered System.
+ Realtime Operating System.
+ Handheld System.
